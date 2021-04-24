@@ -6,3 +6,5 @@ Add your name and LinkedIn ID's to have a hands on practise with us and grow you
 
 EXample:
 [Sakshi Kedar](https://www.linkedin.com/in/sakshi-kedar-b2849a17a/)
+
+[Mahee Jaiswal](https://www.linkedin.com/in/mahee-jaiswal/)
